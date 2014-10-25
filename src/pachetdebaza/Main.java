@@ -14,6 +14,8 @@ public class Main {
         MountainBike.setSpeed(50);
 
         System.out.println(MountainBike.gear);
+        System.out.println(MountainBike.cadence);
+        System.out.println(MountainBike.speed);
 
 
 
