@@ -16,4 +16,14 @@ public class Bicicleta {
         gear = value;
     }
 
+    public void setCadence(int value) {
+
+        cadence = value;
+    }
+
+    public void setSpeed(int value) {
+
+        speed = value;
+    }
+
 }

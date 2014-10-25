@@ -10,6 +10,8 @@ public class Main {
         Bicicleta MountainBike = new Bicicleta();
 
         MountainBike.setGear(20);
+        MountainBike.setCadence(30);
+        MountainBike.setSpeed(50);
 
         System.out.println(MountainBike.gear);
 
